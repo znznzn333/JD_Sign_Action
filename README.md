@@ -59,7 +59,7 @@
 
 ![WechatIMG4](./images/WechatIMG4.jpeg)
 
-
+1
 ## 参考项目
 * [NobyDa/Script/JD-DailyBonus](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
 * [ruicky/jd-sign-bot](https://github.com/ruicky/jd_sign_bot)
